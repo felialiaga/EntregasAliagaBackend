@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Pepitos 100gr",
+		"price": 1000,
+		"description": "A good oreo",
+		"code": "oreo123",
+		"status": true,
+		"stock": 5,
+		"category": "Cookies",
+		"id": 1
+	},
+	{
+		"title": "Oreo",
+		"description": "A good oreo",
+		"code": "oreo123",
+		"price": 1000,
+		"status": true,
+		"stock": 25,
+		"category": "Cookies",
+		"id": 2
+	}
+]
